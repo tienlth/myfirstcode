@@ -1,0 +1,20 @@
+101       anguyen van elsu                                    8.00      8.90      3.22
+100       laliana                                            2.30      4.30      0.32
+1019       ryoma                                              4.30      4.40      6.70
+104       tulen ne                                           1.90      9.90     10.90
+107       nguyen van zuka                                    9.90      3.20      5.30
+103       nguyen van elsu                                    8.00      8.90      3.22
+105       liliana                                            2.30      4.30      0.32
+199       ryoma                                              4.30      4.40      6.70
+104       tulen ne                                           1.90      9.90     10.90
+105       nguyen van zuka                                    9.90      3.20      5.30
+101       bnguyen van elsu                                    8.00      8.90      3.22
+209       lbliana                                            2.30      4.30      0.32
+103       ryoma                                              4.30      4.40      6.70
+201       tulen ne                                           1.90      9.90     10.90
+105       nguyen van zuka                                    9.90      3.20      5.30
+101       cnguyen van elsu                                    8.00      8.90      3.22
+102       lcliana                                            2.30      4.30      0.32
+302       ryoma                                              4.30      4.40      6.70
+104       tulen ne                                           1.90      9.90     10.90
+105       nguyen van zuka                                    9.90      3.20      5.30
